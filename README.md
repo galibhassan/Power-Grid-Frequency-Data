@@ -16,7 +16,7 @@ https://www.transnetbw.com/en/energy-market/ancillary-services/control-reserve-d
 ### Data available here:
 #### 2019 - npz, csv and txt files (csv and txt in their respective zips)
 
-Zip with all currently available months: [2019](https://fz-juelich.sciebo.de/s/V53w8kDsXnM8JPj "Power-Grid Frequency Data - Germany - 2019")
+Zip (with txt) with all currently available months: [2019](https://fz-juelich.sciebo.de/s/V53w8kDsXnM8JPj "Power-Grid Frequency Data - Germany - 2019") - Available also 
 
 ##### Separated by month
 [January](https://fz-juelich.sciebo.de/s/2KYkGwJpiMF4HCK "Power-Grid Frequency Data - Germany - 2019 January") - [February](https://fz-juelich.sciebo.de/s/ppCEaJyCel3PirK "Power-Grid Frequency Data - Germany - 2019 February") - [March](https://fz-juelich.sciebo.de/s/cO5PogAQKl1PnQL "Power-Grid Frequency Data - Germany - 2019 March") - [April](https://fz-juelich.sciebo.de/s/N0AadgTlNNnLgRJ "Power-Grid Frequency Data - Germany - 2019 April")
