@@ -21,6 +21,12 @@ Zip (with txts) with all currently available months: [2019](https://fz-juelich.s
 ##### Separated by month
 [January](https://fz-juelich.sciebo.de/s/2KYkGwJpiMF4HCK "Power-Grid Frequency Data - Germany - 2019 January") - [February](https://fz-juelich.sciebo.de/s/ppCEaJyCel3PirK "Power-Grid Frequency Data - Germany - 2019 February") - [March](https://fz-juelich.sciebo.de/s/cO5PogAQKl1PnQL "Power-Grid Frequency Data - Germany - 2019 March") - [April](https://fz-juelich.sciebo.de/s/N0AadgTlNNnLgRJ "Power-Grid Frequency Data - Germany - 2019 April")
 
+#### 2018 - npz, csv and txt files (csv and txt in their respective zips)
+
+Zip (with txts) with all currently available months: [2018](https://fz-juelich.sciebo.de/s/DtNsx4kAHBkeszH "Power-Grid Frequency Data - Germany - 2018") - Available also for download in the repository here
+
+##### Separated by month
+[January](https://fz-juelich.sciebo.de/s/SIFdJyj0QC4Y1NH "Power-Grid Frequency Data - Germany - 2018 January") - [February](https://fz-juelich.sciebo.de/s/ex5pjbYAEYLzknb "Power-Grid Frequency Data - Germany - 2018 February") - [March](https://fz-juelich.sciebo.de/s/KhALytHhqRmfJG7 "Power-Grid Frequency Data - Germany - 2018 March") - [April](https://fz-juelich.sciebo.de/s/bu7OrBfx6N1pkV7 "Power-Grid Frequency Data - Germany - 2018 April") - [May](https://fz-juelich.sciebo.de/s/WSPao38eUCnNbaX "Power-Grid Frequency Data - Germany - 2018 May") - [June](https://fz-juelich.sciebo.de/s/EuH5EuhxEBQ1c4O "Power-Grid Frequency Data - Germany - 2018 June") - [July](https://fz-juelich.sciebo.de/s/WB6c0F4Edya4qtr "Power-Grid Frequency Data - Germany - 2018 July") - [August](https://fz-juelich.sciebo.de/s/p9eRN00P624J0mt "Power-Grid Frequency Data - Germany - 2018 August") - [September](https://fz-juelich.sciebo.de/s/bgT3ZxZsHF21DZa "Power-Grid Frequency Data - Germany - 2018 September") - [October](https://fz-juelich.sciebo.de/s/OtaRLbiZ4lVIzVJ "Power-Grid Frequency Data - Germany - 2018 October") - [November](https://fz-juelich.sciebo.de/s/huZLLUXgVe6hsy7 "Power-Grid Frequency Data - Germany - 2018 November") - [December](https://fz-juelich.sciebo.de/s/lTB0fseNlUioFnx "Power-Grid Frequency Data - Germany - 2018 December")
 
 #### 2017 - npz, csv and txt files (csv and txt in their respective zips)
 
