@@ -5,6 +5,20 @@ Power-Grid Frequency Data - Germany - 2019 February
 Power-Grid Frequency Data - Germany - 2019 March
 Power-Grid Frequency Data - Germany - 2019 April
 
+Power-Grid Frequency Data - Germany - 2018
+Power-Grid Frequency Data - Germany - 2018 January
+Power-Grid Frequency Data - Germany - 2018 February
+Power-Grid Frequency Data - Germany - 2018 March
+Power-Grid Frequency Data - Germany - 2018 April
+Power-Grid Frequency Data - Germany - 2018 May
+Power-Grid Frequency Data - Germany - 2018 June
+Power-Grid Frequency Data - Germany - 2018 July
+Power-Grid Frequency Data - Germany - 2018 August
+Power-Grid Frequency Data - Germany - 2018 September
+Power-Grid Frequency Data - Germany - 2018 October
+Power-Grid Frequency Data - Germany - 2018 November
+Power-Grid Frequency Data - Germany - 2018 December
+
 Power-Grid Frequency Data - Germany - 2017
 Power-Grid Frequency Data - Germany - 2017 January
 Power-Grid Frequency Data - Germany - 2017 February
